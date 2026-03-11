@@ -14,7 +14,7 @@ This project presents an interactive sales analytics dashboard built using Power
 - Bar charts, pie charts, and map visualizations
 
 ## Dashboard Preview
-(Add your dashboard screenshot here)
+![Sales Dashboard](sales-dashboard.png)
 
 ## Project File
 Power BI (.pbix) file included in this repository.
